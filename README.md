@@ -137,31 +137,31 @@ Likes, shares, comments vary widely
    
  Age entered as "20" (string)
 
-👉 Converted to integer for calculations
+ 👉 Converted to integer for calculations
 
 2. 💳 Payment Systems
 
-Price stored as string "499.99"
+ Price stored as string "499.99"
 
-👉 Converted to float for billing
+ 👉 Converted to float for billing
 
 3. 📊 Data Analysis (Python / Excel)
 
  Dates like "05-04-2026"
 
-👉 Converted to datetime format for analysis
+ 👉 Converted to datetime format for analysis
 
 4. 🧾 CSV / Database Handling
 
  Numbers sometimes stored as text
 
-👉 Converted for sorting, filtering, and computation
+ 👉 Converted for sorting, filtering, and computation
 
 5. 🤖 Machine Learning
    
  Categories like "Male/Female"
 
-👉 Converted to numeric (0/1) for models
+ 👉 Converted to numeric (0/1) for models
 
 ## 💡**CONCLUSION**  
 * Data normalization and categorical variable transformation techniques were successfully studied using various Python functions and operations.
