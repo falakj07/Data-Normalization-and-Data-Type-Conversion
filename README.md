@@ -91,7 +91,7 @@ Machine learning algorithms work only with numerical data. However, many real-wo
 ## 🌍**REAL-LIFE APPLICATIONS**
 
 
-📊 Data Normalization (Scaling Data)
+### 📊 Data Normalization (Scaling Data)
 
 
 1. 🛒 E-commerce (Amazon, Flipkart)
@@ -130,7 +130,7 @@ Likes, shares, comments vary widely
 👉 Normalization helps ranking algorithms.
 
 
-🔄 Data Type Conversion
+### 🔄 Data Type Conversion
 
 
 1. 🛍️ Online Forms
